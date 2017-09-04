@@ -1,0 +1,15 @@
+{
+  "name": "express-mongodb-app",
+  "version": "1.0.0",
+  "description": "Sample application built in express js to connect to mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Mayank Jain (ja.mayank.in02@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.31"
+  }
+}
